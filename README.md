@@ -2,7 +2,7 @@
 
 ### Hi There 👋
 
-I'm Krishna Chaitanya Surapaneni, a software engineer with a passion for creating robust system architectures and solving complex problems. Here's a bit about me:
+I'm Krishna Chaitanya Surapaneni, a software engineer driven to architect scalable solutions and tackle intricate technical challenges. Here's a bit about me:
 
 - 💻 Experienced in designing and developing software solutions in Java, Python, and SQL.
 - 🧰 Proficient in a wide range of technologies, including Spring framework, Hibernate, AWS, and Azure.
